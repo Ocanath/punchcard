@@ -1,0 +1,13 @@
+﻿Build started 11/21/2017 5:18:03 AM.
+     1>Project "C:\Users\Ocanath\Google Drive\Projects\VS_Projects\punch_2013\punch\punch\punch.vcxproj" on node 2 (Build target(s)).
+     1>ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /l"0x0409" /nologo /fo"Debug\punch.res" punch.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ocanath\Google Drive\Projects\VS_Projects\punch_2013\punch\Debug\punch.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ocanath\Google Drive\Projects\VS_Projects\punch_2013\punch\Debug\punch.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ocanath\Google Drive\Projects\VS_Projects\punch_2013\punch\Debug\punch.lib" /MACHINE:X86 Debug\punch.res
+         Debug\main.obj
+         punch.vcxproj -> C:\Users\Ocanath\Google Drive\Projects\VS_Projects\punch_2013\punch\Debug\punch.exe
+     1>Done Building Project "C:\Users\Ocanath\Google Drive\Projects\VS_Projects\punch_2013\punch\punch\punch.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.80
